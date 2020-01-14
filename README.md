@@ -7,3 +7,4 @@ There are some Steps to integrate the Stripe payment gateway -
 4. Validate card through Stripe JavaScript library ( See my Form - STRIPE_FORM.PHP ).
 5. Process Stripe charges in PHP and track the response ( See my Form - STRIPE_PAYMENT.PHP ).
 
+Note : Download Stripe-Library From Github or run through Composer.
